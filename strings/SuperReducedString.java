@@ -5,6 +5,8 @@ package strings;
 *   For instance, the string aab could be shortened to b in one operation.
 *   Task is to delete as many characters as possible and print the result.
 *   If the output string is empty then print "Empty String"
+*
+*   URL: https://www.hackerrank.com/challenges/reduced-string/problem
 */
 
 
