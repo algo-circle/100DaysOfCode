@@ -58,5 +58,6 @@ class StrongPassword {
         String s = obj.next();
         int output = checkPassword(s.length(), s);
         System.out.println(output);
+        obj.close();
     }
 }
