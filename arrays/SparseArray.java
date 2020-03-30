@@ -8,6 +8,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+//Question: https://www.hackerrank.com/challenges/sparse-arrays/problem
 public class SparseArray {
 
     static int[] matchingStrings(String[] strings, String[] queries) 
