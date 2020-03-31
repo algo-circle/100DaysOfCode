@@ -30,7 +30,7 @@ Slow progress is still better than no progress.
 -Revised sorting algorithms.
 -Bucket, counting, radix, heap sort are pending.
 
-##Day 4: March 31, 2020
+###Day 4: March 31, 2020
 
 **Today's Progress**:
 -Completed HTML section of freecodecamp.
