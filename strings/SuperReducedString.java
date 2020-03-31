@@ -17,9 +17,8 @@ public class SuperReducedString {
     static String reduceString(String s) {
 
         String str = s;
-        int n;
         //int count = 0;
-        StringBuilder sb = new StringBuilder("");;
+        //StringBuilder sb = new StringBuilder("");;
         for (int i = 1; i < str.length(); i++) {
             if (str.charAt(i) == str.charAt(i-1)) {
                 str = str.substring(0, i-1) + str.substring(i+1);

@@ -22,3 +22,17 @@
 
 **Thoughts:** Planned on doing all the sortings but couldn't allocate time today. Perhaps tomorrow.
 Slow progress is still better than no progress.
+
+
+### Day 3: March 30, 2020
+
+**Today's Progress**:
+-Revised sorting algorithms.
+-Bucket, counting, radix, heap sort are pending.
+
+##Day 4: March 31, 2020
+
+**Today's Progress**:
+-Completed HTML section of freecodecamp.
+-Solved one hackerrank question(partial).
+-2 codechef problems(still debugging).
