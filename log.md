@@ -36,3 +36,11 @@ Slow progress is still better than no progress.
 -Completed HTML section of freecodecamp.
 -Solved one hackerrank question(partial).
 -2 codechef problems(still debugging).
+
+
+###Day 5: April 2, 2020
+
+**Today's Progress**:
+-Practiced 2 coding problems.
+-Learned CSS from FreeCodeCamp.
+
